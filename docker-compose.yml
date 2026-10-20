@@ -1,0 +1,14 @@
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: campus-lost-found-mysql
+    environment:
+      MYSQL_DATABASE: campus_lost_found
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "3307:3306"
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-proot"]
+      interval: 5s
+      timeout: 5s
+      retries: 20

@@ -1,0 +1,170 @@
+{
+  "input": "C:\\Users\\Lakshay Shrivastava\\Documents\\Codex\\2026-08-27\\project-campus-lost-found-platform-a\\work\\template\\Project template.docx",
+  "fonts_by_char_count": {
+    "Times New Roman": 1058
+  },
+  "direct_run_formatting_runs": 103,
+  "direct_paragraph_formatting_paragraphs": 37,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "<<Project Title>>",
+      "style": "Normal"
+    },
+    {
+      "para_index": 4,
+      "text": "Database Systems Lab (BCSE302P)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 7,
+      "text": "PROJECT REPORT",
+      "style": "Normal"
+    },
+    {
+      "para_index": 9,
+      "text": "Fall Semester 2026-2027",
+      "style": "Normal"
+    },
+    {
+      "para_index": 14,
+      "text": "<<Name (Regno)>> ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 19,
+      "text": "B. Tech ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 24,
+      "text": "Computer Science and Engineering",
+      "style": "Normal"
+    },
+    {
+      "para_index": 25,
+      "text": "<<Specialization>>",
+      "style": "Normal"
+    },
+    {
+      "para_index": 30,
+      "text": "           School of Computer Science and Engineering",
+      "style": "Normal"
+    },
+    {
+      "para_index": 34,
+      "text": "CONTENTS",
+      "style": "Normal"
+    },
+    {
+      "para_index": 35,
+      "text": "Project Title",
+      "style": "Normal"
+    },
+    {
+      "para_index": 36,
+      "text": "Abstract (Maximum of 300 words)",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 37,
+      "text": "Introduction (Minimum of 1 page)",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 38,
+      "text": "Background study (Related works or papers)",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 40,
+      "text": "Explanation about working model, datasets (if any)) (Minimum of 2 pages)",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 41,
+      "text": "Proposed working model of the project diagram, and ER Diagram",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 42,
+      "text": "Modules and sub modules (Explanation and diagram (if any) ",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 43,
+      "text": "Results and Discussion (Minimum of 2 pages) ",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 44,
+      "text": "Conclusion",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 45,
+      "text": "References",
+      "style": "List Paragraph"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "<<Project Title>>",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": "<Font Size - 16 + Bold, Times new roman>",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "Database Systems Lab (BCSE302P)",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "<<",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "Project",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": " ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "Title>>",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "<Font Size - 16 + Bold, Times new roman>",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

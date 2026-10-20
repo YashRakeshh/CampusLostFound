@@ -1,0 +1,10 @@
+{
+  "name": "campus-lost-found-platform",
+  "private": true,
+  "workspaces": ["client", "server"],
+  "scripts": {
+    "dev": "concurrently \"npm run dev --workspace server\" \"npm run dev --workspace client\"",
+    "db:seed": "npm run db:seed --workspace server"
+  },
+  "devDependencies": { "concurrently": "^9.1.2" }
+}
